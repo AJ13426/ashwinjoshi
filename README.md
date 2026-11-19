@@ -2,43 +2,38 @@
   <img src="./assets/ascii-banner.gif" alt="ascii plasma animation" width="100%">
 </p>
 
-hi! i'm ashwin and below you can find the projects i'm building as i learn to be both technical and business savvy
+hi! i'm ashwin. i'm a first year at ASU in Barrett, The Honors College, building toward starting my own company. here you'll find the projects i've worked on and things i'm currently building.
 
-i'm a first year at ASU in Barrett, The Honors College, working toward starting my own company
+currently building a marketing agency and co founding Nexus, an interdisciplinary student club at ASU.
 
-#### what i'm up to
+#### my claude code usage
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="30%">stat</th>
-      <th align="left" width="70%">value</th>
+      <th align="left" width="18%">stat</th>
+      <th align="left" width="36%">value</th>
+      <th align="right" width="46%">tokens over time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>school</td>
-      <td>Arizona State University, Barrett Honors College</td>
+      <td width="18%">lifetime tokens</td>
+      <td width="36%">ADD TOTAL TOKENS</td>
+      <td rowspan="6" width="46%" valign="middle" align="right"><img src="./assets/claude-token-trend.svg" alt="Claude Code tokens over time" width="500"></td>
     </tr>
     <tr>
-      <td>building</td>
-      <td>a marketing agency with a friend</td>
+      <td>est. API cost</td>
+      <td>ADD COST</td>
     </tr>
     <tr>
-      <td>co founding</td>
-      <td>Nexus, an interdisciplinary student club at ASU</td>
+      <td>current streak</td>
+      <td>ADD STREAK</td>
     </tr>
     <tr>
-      <td>hackathons</td>
-      <td>Cal Hacks, ASU Opportunity Hack</td>
+      <td>daily history</td>
+      <td>ADD FIRST DAY -&gt; ADD LAST DAY</td>
     </tr>
     <tr>
-      <td>interested in</td>
-      <td>startups, AI, and AR / spatial computing</td>
-    </tr>
-    <tr>
-      <td>location</td>
-      <td>Phoenix, AZ</td>
-    </tr>
-  </tbody>
-</table>
+      <td>history tokens</td>
+      <td>ADD TOTAL TOKENS</td>
