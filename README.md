@@ -6,34 +6,41 @@ hi! i'm ashwin. i'm a first year at ASU in Barrett, The Honors College, building
 
 currently building a marketing agency and co founding Nexus, an interdisciplinary student club at ASU.
 
-#### my claude code usage
+#### what i'm up to
 
 <table width="100%">
   <thead>
     <tr>
       <th align="left" width="18%">stat</th>
       <th align="left" width="36%">value</th>
-      <th align="right" width="46%">tokens over time</th>
+      <th align="right" width="46%">github activity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="18%">lifetime tokens</td>
-      <td width="36%">ADD TOTAL TOKENS</td>
-      <td rowspan="6" width="46%" valign="middle" align="right"><img src="./assets/claude-token-trend.svg" alt="Claude Code tokens over time" width="500"></td>
+      <td width="18%">school</td>
+      <td width="36%">ASU, Barrett Honors College</td>
+      <td rowspan="6" width="46%" valign="middle" align="right"><img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" width="500"></td>
     </tr>
     <tr>
-      <td>est. API cost</td>
-      <td>ADD COST</td>
+      <td>building</td>
+      <td>a marketing agency</td>
     </tr>
     <tr>
-      <td>current streak</td>
-      <td>ADD STREAK</td>
+      <td>co founding</td>
+      <td>Nexus @ ASU</td>
     </tr>
     <tr>
-      <td>daily history</td>
-      <td>ADD FIRST DAY -&gt; ADD LAST DAY</td>
+      <td>hackathons</td>
+      <td>Cal Hacks, Opportunity Hack</td>
     </tr>
     <tr>
-      <td>history tokens</td>
-      <td>ADD TOTAL TOKENS</td>
+      <td>interested in</td>
+      <td>startups, AI, AR</td>
+    </tr>
+    <tr>
+      <td>based in</td>
+      <td>Phoenix, AZ</td>
+    </tr>
+  </tbody>
+</table>
